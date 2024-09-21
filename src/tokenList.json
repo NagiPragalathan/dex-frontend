@@ -1,18 +1,5 @@
 [
-    {
-        "ticker": "C6",
-        "img": "https://c6credits.vercel.app/_next/static/media/logo.9d363db5.svg",
-        "name": "C6Token",
-        "address": "0xD4f998A32961cD69B5Aea87362861557b7dF05F4",
-        "decimals": 18
-    },
-    {
-        "ticker": "BASE",
-        "img": "https://th.bing.com/th/id/OIP.MtYraf6MSMDjI2jpkeeKlQHaHa?w=203&h=203&c=7&r=0&o=5&dpr=1.3&pid=1.7",
-        "name": "BASE Token",
-        "address": "0x4200000000000000000000000000000000000006",
-        "decimals": 18
-    },
+
     {
         "ticker": "USDC",
         "img": "https://cdn.moralis.io/eth/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png",
@@ -33,6 +20,20 @@
         "name": "Tether USD",
         "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
         "decimals": 6
+    },
+    {
+        "ticker": "C6",
+        "img": "https://c6credits.vercel.app/_next/static/media/logo.9d363db5.svg",
+        "name": "C6Token",
+        "address": "0xD4f998A32961cD69B5Aea87362861557b7dF05F4",
+        "decimals": 18
+    },
+    {
+        "ticker": "BASE",
+        "img": "https://th.bing.com/th/id/OIP.MtYraf6MSMDjI2jpkeeKlQHaHa?w=203&h=203&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "name": "BASE Token",
+        "address": "0x4200000000000000000000000000000000000006",
+        "decimals": 18
     },
     {
         "ticker": "GUSD",
